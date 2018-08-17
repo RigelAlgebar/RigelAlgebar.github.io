@@ -169,11 +169,12 @@ h6,
 .h6 {
   font-family: "Open sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #ffffff;
+  color: #333333;
 }
 h1 {
   font-size: 40px;
   font-size: 2.5rem;
+  color: #ffffff;
 }
 h2 {
   font-size: 36px;

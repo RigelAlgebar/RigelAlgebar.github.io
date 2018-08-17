@@ -235,7 +235,7 @@ a:hover {
   width: 200px;
   height: 200px;
   overflow: hidden;
-  border: 9px solid rgba(white, 0.05);
+  border: 9px solid rgba(255, 255, 255, 0.05);
   margin: 0 auto;
 }
 #head .title {

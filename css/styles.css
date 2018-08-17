@@ -235,7 +235,7 @@ a:hover {
   width: 140px;
   height: 140px;
   overflow: hidden;
-  border: 9px solid rgba(0, 0, 0, 0.05);
+  border: 9px solid rgba(white, 0.05);
   margin: 0 auto;
 }
 #head .title {
@@ -245,7 +245,7 @@ a:hover {
 }
 #head .title a {
   text-decoration: none;
-  color: #333333;
+  color: #ffffff;
 }
 #head .tagline {
   display: block;
